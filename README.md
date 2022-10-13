@@ -9,6 +9,15 @@
  
  
 <!--START_SECTION:waka-->
+
+```text
+From: 04 October 2022 - To: 12 October 2022
+
+Total Time: 15 mins
+
+MQL   15 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
