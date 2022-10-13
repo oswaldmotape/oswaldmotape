@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-     integrating code editor jobs run mql files
-     Algorithmic environment in python
+     - integrating code editor jobs run mql files
+     - building an Algorithmic environment in python
+     - powershell and bash scripting 
 <!--
 **oswaldmotape/oswaldmotape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
