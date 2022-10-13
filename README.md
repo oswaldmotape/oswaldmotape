@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything Dev related
+
 - 🔭 I’m currently working on 
      - integrating code editor jobs run mql files
      - building an Algorithmic environment in python
      - powershell and bash scripting 
  
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+- ⚡ Fun fact: You got to put in the work!
 
 <!--
 **oswaldmotape/oswaldmotape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
