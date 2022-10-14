@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 12 October 2022
+From: 04 October 2022 - To: 13 October 2022
 
-Total Time: 15 mins
+Total Time: 9 hrs 28 mins
 
-MQL   15 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Other    8 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>----   85.52 %
 ```
 
 <!--END_SECTION:waka-->
