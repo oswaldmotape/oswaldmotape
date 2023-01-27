@@ -3,9 +3,12 @@
 - 💬 Ask me about anything Dev related
 
 - 🔭 I’m currently working on 
-     - integrating code editor jobs run mql files
-     - building an Algorithmic environment in python
-     - powershell and bash scripting 
+     - IT infrastructure of a buisness
+     - Algorithmic trading environment in various languages { python, mql4/5 }
+     - MuchaTech site
+     - MeensPay site
+     - MeensPay app
+     - Powershell and Bash scripting 
  
  
 <!--START_SECTION:waka-->
