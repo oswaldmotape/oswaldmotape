@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 💬 Ask me about anything Dev related
+- 💬 Ask me anything Dev & Cybersecurity related
 
 - 🔭 I’m currently working on 
-     - IT infrastructure of a buisness
-     - Algorithmic trading environment in various languages { python, mql4/5 }
+     - IT infrastructure of a mining buisness
      - MuchaTech site
      - MeensPay site
      - MeensPay app
+     - Algorithmic trading environment in various languages { python, mql4/5 }
      - Powershell and Bash scripting 
  
  
