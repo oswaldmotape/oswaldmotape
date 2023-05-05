@@ -14,11 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 03 May 2023
+From: 04 October 2022 - To: 04 May 2023
 
 Total Time: 70 hrs 19 mins
 
 Other        35 hrs 15 mins  >>>>>>>>>>>>>------------   50.13 %
+MQL          23 hrs 34 mins  >>>>>>>>-----------------   33.52 %
+JavaScript   5 hrs 3 mins    >>-----------------------   07.19 %
+Python       2 hrs 31 mins   >------------------------   03.60 %
+Git Config   1 hr 6 mins     -------------------------   01.57 %
 ```
 
 <!--END_SECTION:waka-->
