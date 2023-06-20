@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2022 - To: 18 June 2023
+From: 04 October 2022 - To: 19 June 2023
 
-Total Time: 78 hrs 51 mins
+Total Time: 79 hrs 7 mins
 
-Other        35 hrs 15 mins  >>>>>>>>>>>--------------   44.71 %
-MQL          32 hrs 3 mins   >>>>>>>>>>---------------   40.65 %
-JavaScript   5 hrs 6 mins    >>-----------------------   06.47 %
-Python       2 hrs 31 mins   >------------------------   03.21 %
-Git Config   1 hr 6 mins     -------------------------   01.40 %
+Other        35 hrs 15 mins  >>>>>>>>>>>--------------   44.55 %
+MQL          32 hrs 19 mins  >>>>>>>>>>---------------   40.84 %
+JavaScript   5 hrs 6 mins    >>-----------------------   06.45 %
+Python       2 hrs 32 mins   >------------------------   03.21 %
+Git Config   1 hr 6 mins     -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
