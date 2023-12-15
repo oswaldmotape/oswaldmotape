@@ -14,15 +14,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2022 - To: 13 December 2023
+From: 04 October 2022 - To: 14 December 2023
 
-Total Time: 112 hrs 32 mins
+Total Time: 112 hrs 48 mins
 
-MQL          43 hrs 37 mins  >>>>>>>>>>---------------   38.76 %
-Other        35 hrs 30 mins  >>>>>>>>-----------------   31.55 %
-TOML         7 hrs 15 mins   >>-----------------------   06.45 %
-JavaScript   6 hrs 13 mins   >------------------------   05.53 %
-YAML         4 hrs 19 mins   >------------------------   03.84 %
+MQL          43 hrs 37 mins  >>>>>>>>>>---------------   38.67 %
+Other        35 hrs 30 mins  >>>>>>>>-----------------   31.47 %
+TOML         7 hrs 15 mins   >>-----------------------   06.44 %
+JavaScript   6 hrs 13 mins   >------------------------   05.52 %
+YAML         4 hrs 34 mins   >------------------------   04.06 %
 ```
 
 <!--END_SECTION:waka-->
