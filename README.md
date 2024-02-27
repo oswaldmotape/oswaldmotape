@@ -3,13 +3,12 @@
 - 💬 Ask me anything Dev & Cybersecurity related
 
 - 🔭 I’m currently working on 
-     - IT infrastructure of a mining buisness
      - MuchaTech site
      - MeensPay site
      - MeensPay app
+     - Bambi-health online clinic
      - Algorithmic trading environment in various languages { python, mql4/5 }
-     - Powershell and Bash scripting 
- 
+
  
 <!--START_SECTION:waka-->
 
