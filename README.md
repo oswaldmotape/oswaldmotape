@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2022 - To: 26 February 2024
+From: 04 October 2022 - To: 27 February 2024
 
-Total Time: 142 hrs 21 mins
+Total Time: 148 hrs 35 mins
 
-MQL          61 hrs 14 mins  >>>>>>>>>>>--------------   43.02 %
-Other        35 hrs 32 mins  >>>>>>-------------------   24.96 %
-Python       13 hrs 8 mins   >>-----------------------   09.23 %
-TOML         7 hrs 15 mins   >------------------------   05.10 %
-JavaScript   6 hrs 54 mins   >------------------------   04.85 %
+MQL          61 hrs 14 mins  >>>>>>>>>>---------------   41.22 %
+Other        35 hrs 32 mins  >>>>>>-------------------   23.91 %
+Python       19 hrs 14 mins  >>>----------------------   12.95 %
+TOML         7 hrs 15 mins   >------------------------   04.89 %
+JavaScript   6 hrs 54 mins   >------------------------   04.65 %
 ```
 
 <!--END_SECTION:waka-->
