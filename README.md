@@ -13,9 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2022 - To: 03 April 2024
+From: 04 October 2022 - To: 04 April 2024
 
-Total Time: 172 hrs 52 mins
+Total Time: 172 hrs 53 mins
 
 MQL          61 hrs 14 mins  >>>>>>>>>----------------   35.43 %
 Python       41 hrs 7 mins   >>>>>>-------------------   23.79 %
