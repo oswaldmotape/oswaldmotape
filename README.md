@@ -17,11 +17,11 @@
 
 ### ⭐ Recent Stars
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [StaticMania/roxo-hugo](https://github.com/StaticMania/roxo-hugo) - 
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [coolapso/hugo-theme-hello-4s3ti](https://github.com/coolapso/hugo-theme-hello-4s3ti) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [guangmean/Niello](https://github.com/guangmean/Niello) - A Dark Theme for Hugo
-- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
