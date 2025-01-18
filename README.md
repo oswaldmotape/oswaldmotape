@@ -9,11 +9,13 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [MuchaTech/oaklapine](https://github.com/MuchaTech/oaklapine) - 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
+- [MuchaTech/oaklapine](https://github.com/MuchaTech/oaklapine) - Hugo-inspired static site for a design and fabrication company
+- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - Hugo-inspired static website for MuchaTech company
 ### 🌱 My latest projects
 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
+- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo)
+- [MuchaTech/web_apps](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - KMS Workshop System for a local engineering company
+
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
