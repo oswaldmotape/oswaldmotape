@@ -9,22 +9,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [MuchaTech/oaklapine](https://github.com/MuchaTech/oaklapine) - Hugo-inspired static site for a design and fabrication company
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - Hugo-inspired static website for MuchaTech company
+- [MuchaTech/oaklapine](https://github.com/MuchaTech/oaklapine) - 
+- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🌱 My latest projects
 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo)
-- [MuchaTech/web_apps](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - KMS Workshop System for a local engineering company
-
+- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
 
+- [oswaldmotape/mql5](https://github.com/oswaldmotape/mql5) - The repo for handling algorithmic trading using mql5 library
+- [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) - Completed project for Build Python apps with Microsoft Graph
 - [MuchaTech/web_apps](https://github.com/MuchaTech/web_apps) - All Web Applications 
 - [PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition) - Mastering Python Design Patterns, Third Edition by Packt Publishing
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [StaticMania/roxo-hugo](https://github.com/StaticMania/roxo-hugo) - 
-- [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
