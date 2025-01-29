@@ -18,11 +18,11 @@
 
 ### ⭐ Recent Stars
 
+- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [oswaldmotape/mql5](https://github.com/oswaldmotape/mql5) - The repo for handling algorithmic trading using mql5 library
 - [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) - Completed project for Build Python apps with Microsoft Graph
 - [MuchaTech/web_apps](https://github.com/MuchaTech/web_apps) - All Web Applications 
 - [PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Third-Edition) - Mastering Python Design Patterns, Third Edition by Packt Publishing
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
