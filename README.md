@@ -18,11 +18,11 @@
 
 ### ⭐ Recent Stars
 
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
 - [polygon-io/client-python](https://github.com/polygon-io/client-python) - The official Python client library for the Polygon REST and WebSocket API.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [oswaldmotape/mql5](https://github.com/oswaldmotape/mql5) - The repo for handling algorithmic trading using mql5 library
 - [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) - Completed project for Build Python apps with Microsoft Graph
-- [MuchaTech/web_apps](https://github.com/MuchaTech/web_apps) - All Web Applications 
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
