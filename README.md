@@ -18,11 +18,11 @@
 
 ### ⭐ Recent Stars
 
+- [D-Sketon/hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu) - 一款博丽灵梦风格的Hugo主题 | A Hakurei Reimu style Hugo theme. 💘Touhou💘
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [zhaohuabing/hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
 - [polygon-io/client-python](https://github.com/polygon-io/client-python) - The official Python client library for the Polygon REST and WebSocket API.
-- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
