@@ -8,21 +8,21 @@
 <p align="left"><img src="https://raw.githubusercontent.com/oswaldmotape/oswaldmotape/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - All hugo inspired sites for clients 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 
+- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - 
+- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🌱 My latest projects
-- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - All hugo inspired sites for clients 
+
 - [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
 
+- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - 
 - [D-Sketon/hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu) - 一款博丽灵梦风格的Hugo主题 | A Hakurei Reimu style Hugo theme. 💘Touhou💘
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [zhaohuabing/hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
-- [polygon-io/client-python](https://github.com/polygon-io/client-python) - The official Python client library for the Polygon REST and WebSocket API.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
