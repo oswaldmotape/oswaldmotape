@@ -8,11 +8,11 @@
 <p align="left"><img src="https://raw.githubusercontent.com/oswaldmotape/oswaldmotape/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-
-- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - 
+- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - All hugo inspired sites for clients 
 - [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
-### 🌱 My latest projects
 
+### 🌱 My latest projects
+- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - All hugo inspired sites for clients 
 - [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🔨 My recent Pull Requests
 
