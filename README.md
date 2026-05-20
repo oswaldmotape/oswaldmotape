@@ -9,20 +9,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
+- [MuchaTech/muchatech-nextjs](https://github.com/MuchaTech/muchatech-nextjs) - company site redesigned and reimagined
+- [MuchaTech/muchatech-hugo](https://github.com/MuchaTech/muchatech-hugo) - Cybersecurity Focused Company
 ### 🌱 My latest projects
 
-- [oswaldmotape/MuchaTech-Meghna-Hugo](https://github.com/oswaldmotape/MuchaTech-Meghna-Hugo) - hugo inspired static website for muchatech business
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
 
-- [MuchaTech/hugo](https://github.com/MuchaTech/hugo) - 
-- [D-Sketon/hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu) - 一款博丽灵梦风格的Hugo主题 | A Hakurei Reimu style Hugo theme. 💘Touhou💘
-- [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
-- [zhaohuabing/hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+- [ossec/ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
+- [ossec/ossec-docs](https://github.com/ossec/ossec-docs) - OSSEC Documentation 
+- [PacktPublishing/Design-Made-Easy-with-Inkscape](https://github.com/PacktPublishing/Design-Made-Easy-with-Inkscape) - 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
