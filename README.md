@@ -9,7 +9,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [MuchaTech/muchatech-nextjs](https://github.com/MuchaTech/muchatech-nextjs) - company site redesigned and reimagined
+- [MuchaTech/muchatech-nextjs](https://github.com/MuchaTech/muchatech-nextjs) - Cybersecurity company site redesigned and reimagined
 - [MuchaTech/muchatech-hugo](https://github.com/MuchaTech/muchatech-hugo) - Cybersecurity Focused Company
 ### 🌱 My latest projects
 
