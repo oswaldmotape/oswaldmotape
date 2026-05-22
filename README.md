@@ -17,11 +17,11 @@
 
 ### ⭐ Recent Stars
 
+- [oswaldmotape/oswaldmotape](https://github.com/oswaldmotape/oswaldmotape) - Config files for my GitHub profile.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [ossec/ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 - [ossec/ossec-docs](https://github.com/ossec/ossec-docs) - OSSEC Documentation 
 - [PacktPublishing/Design-Made-Easy-with-Inkscape](https://github.com/PacktPublishing/Design-Made-Easy-with-Inkscape) - 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
