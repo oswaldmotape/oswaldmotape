@@ -17,11 +17,11 @@
 
 ### ⭐ Recent Stars
 
+- [theshyhat/hackerfrogs](https://github.com/theshyhat/hackerfrogs) - 
+- [setyanoegraha/hackmyvm-commandlineinterface](https://github.com/setyanoegraha/hackmyvm-commandlineinterface) - A versatile Python-based CLI toolkit for HackMyVM. Search machines, download VMs from MEGA with high-speed progress bars, and submit flags directly from terminal.
+- [leonz1337/network-toolkit](https://github.com/leonz1337/network-toolkit) - Learning cybersecurity networking tool
+- [leonz1337/CVE-Daily-Monitor](https://github.com/leonz1337/CVE-Daily-Monitor) - 
 - [oswaldmotape/oswaldmotape](https://github.com/oswaldmotape/oswaldmotape) - Config files for my GitHub profile.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [ossec/ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
-- [ossec/ossec-docs](https://github.com/ossec/ossec-docs) - OSSEC Documentation 
-- [PacktPublishing/Design-Made-Easy-with-Inkscape](https://github.com/PacktPublishing/Design-Made-Easy-with-Inkscape) - 
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
