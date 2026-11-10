@@ -9,19 +9,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [MuchaTech/muchatech-nextjs](https://github.com/MuchaTech/muchatech-nextjs) - Cybersecurity company site redesigned and reimagined
 - [MuchaTech/muchatech-hugo](https://github.com/MuchaTech/muchatech-hugo) - Cybersecurity Focused Company
+- [MuchaTech/muchatech-nextjs](https://github.com/MuchaTech/muchatech-nextjs) - Cybersecurity company site redesigned and reimagined
 ### 🌱 My latest projects
 
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
 
+- [MuchaTech/muchatech-hugo](https://github.com/MuchaTech/muchatech-hugo) - Cybersecurity Focused Company
 - [theshyhat/hackerfrogs](https://github.com/theshyhat/hackerfrogs) - 
 - [setyanoegraha/hackmyvm-commandlineinterface](https://github.com/setyanoegraha/hackmyvm-commandlineinterface) - A versatile Python-based CLI toolkit for HackMyVM. Search machines, download VMs from MEGA with high-speed progress bars, and submit flags directly from terminal.
 - [leonz1337/network-toolkit](https://github.com/leonz1337/network-toolkit) - Learning cybersecurity networking tool
 - [leonz1337/CVE-Daily-Monitor](https://github.com/leonz1337/CVE-Daily-Monitor) - 
-- [oswaldmotape/oswaldmotape](https://github.com/oswaldmotape/oswaldmotape) - Config files for my GitHub profile.
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
