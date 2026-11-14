@@ -17,11 +17,11 @@
 
 ### ⭐ Recent Stars
 
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [MuchaTech/muchatech-hugo](https://github.com/MuchaTech/muchatech-hugo) - Cybersecurity Focused Company
 - [theshyhat/hackerfrogs](https://github.com/theshyhat/hackerfrogs) - 
 - [setyanoegraha/hackmyvm-commandlineinterface](https://github.com/setyanoegraha/hackmyvm-commandlineinterface) - A versatile Python-based CLI toolkit for HackMyVM. Search machines, download VMs from MEGA with high-speed progress bars, and submit flags directly from terminal.
 - [leonz1337/network-toolkit](https://github.com/leonz1337/network-toolkit) - Learning cybersecurity networking tool
-- [leonz1337/CVE-Daily-Monitor](https://github.com/leonz1337/CVE-Daily-Monitor) - 
 
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/muchatech>
